@@ -11,7 +11,7 @@ if (n >= 0) {
         n = Math.floor(n / 10)
     }
 }
-// if not then it prints msg
+// if not then it prints message
 else {
     console.log("enter the number between 0-n")
 }
